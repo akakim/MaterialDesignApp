@@ -3,4 +3,15 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+
+    <color name="colorWhite">#FFFFFF</color>
+    <!-- TEXT -->
+    <color name="colorDefaultText">#CC000000</color>
+
+
+    <!-- LAYOUT BACKGROUND -->
+    <color name="colorSelected">@color/colorPrimary</color>
+
+
 </resources>
