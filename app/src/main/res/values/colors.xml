@@ -6,12 +6,20 @@
 
 
     <color name="colorWhite">#FFFFFF</color>
+    <color name="colorMagenta">#FF00FF</color>
+
+
     <!-- TEXT -->
     <color name="colorDefaultText">#CC000000</color>
 
 
     <!-- LAYOUT BACKGROUND -->
     <color name="colorSelected">@color/colorPrimary</color>
+
+
+
+    <!-- owl theme Color
+        @reference:https://material.io/design/material-studies/owl.html#product-architecture-->
 
 
 </resources>

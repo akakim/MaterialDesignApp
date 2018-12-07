@@ -5,48 +5,48 @@
     <group android:checkableBehavior="single">
 
 
-        <item
-            android:id="@+id/inbox"
-            android:checkable="false"
-            android:title="inbox"
-            android:icon="@drawable/ic_inbox_black"
-            />
+        <!--<item-->
+            <!--android:id="@+id/inbox"-->
+            <!--android:checkable="false"-->
+            <!--android:title="inbox"-->
+            <!--android:icon="@drawable/ic_inbox_black"-->
+            <!--/>-->
 
-        <item
-            android:id="@+id/starred"
-            android:checkable="false"
-            android:title="stared"
-            android:icon="@drawable/ic_star_black"
-            />
-
-
-        <item
-            android:id="@+id/sent_mail"
-            android:checked="false"
-            android:icon="@drawable/ic_send_black"
-            android:title="sendBlack" />
-
-        <item
-            android:id="@+id/drafts"
-            android:checked="false"
-            android:icon="@drawable/ic_drafts_black"
-            android:title="drafts" />
+        <!--<item-->
+            <!--android:id="@+id/starred"-->
+            <!--android:checkable="false"-->
+            <!--android:title="stared"-->
+            <!--android:icon="@drawable/ic_star_black"-->
+            <!--/>-->
 
 
-        <item
-            android:id="@+id/allmail"
-            android:checked="false"
-            android:icon="@drawable/ic_email_black"
-            android:title="allmail" />
-        <item
-            android:id="@+id/trash"
-            android:checked="false"
-            android:icon="@drawable/ic_delete_black"
-            android:title="trash" />
-        <item
-            android:id="@+id/spam"
-            android:checked="false"
-            android:icon="@drawable/ic_error_black"
-            android:title="spam" />
+        <!--<item-->
+            <!--android:id="@+id/sent_mail"-->
+            <!--android:checked="false"-->
+            <!--android:icon="@drawable/ic_send_black"-->
+            <!--android:title="sendBlack" />-->
+
+        <!--<item-->
+            <!--android:id="@+id/drafts"-->
+            <!--android:checked="false"-->
+            <!--android:icon="@drawable/ic_drafts_black"-->
+            <!--android:title="drafts" />-->
+
+
+        <!--<item-->
+            <!--android:id="@+id/allmail"-->
+            <!--android:checked="false"-->
+            <!--android:icon="@drawable/ic_email_black"-->
+            <!--android:title="allmail" />-->
+        <!--<item-->
+            <!--android:id="@+id/trash"-->
+            <!--android:checked="false"-->
+            <!--android:icon="@drawable/ic_delete_black"-->
+            <!--android:title="trash" />-->
+        <!--<item-->
+            <!--android:id="@+id/spam"-->
+            <!--android:checked="false"-->
+            <!--android:icon="@drawable/ic_error_black"-->
+            <!--android:title="spam" />-->
     </group>
 </menu>

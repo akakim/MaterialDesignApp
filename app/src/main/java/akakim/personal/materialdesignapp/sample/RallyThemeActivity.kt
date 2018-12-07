@@ -19,9 +19,6 @@ class RallyThemeActivity : BaseActivity(),NavigationView.OnNavigationItemSelecte
         setContentView(R.layout.activity_rally_theme)
 
 
-//        drawerLayout.i
-
-//        navigationView
     }
 
 
